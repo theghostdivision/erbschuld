@@ -224,7 +224,7 @@ Also, vorab sei gesagt, die angeblich so vornehmen und ehrenhaften Damen, die na
 
 Diese jämmerlichen kleinen Hurenseuchen sind verwundbar, man muss nur ihre Schwachstellen kennen. Zuerst empfehle ich natürlich einen Blick in unser Cheat-Sheet :page_facing_up:.
 
-Zur billigsten kleinen Drecksschlampe runternutten. Am Besten mit Bildern von Ihr im Vollsuff an Ihrem Lieblingspartyort (Urlaub ist ideal), aber auch nicht zu vergessen sind Sexvideos. Sobald Sie zum Beispiel bettelt, bitte keine Sexbilder, wissen Sie, die ist erpressbar und eine billige kleine Nutte.
+Sie sollten Sie auf alle Fälle zur billigsten kleinen Drecksschlampe runternutten. Am Besten mit Bildern von Ihr im Vollsuff an Ihrem Lieblingspartyort (Urlaub ist ideal), aber auch nicht zu vergessen sind Sexvideos. Sobald Sie zum Beispiel bettelt, bitte keine Sexbilder, wissen Sie, die ist erpressbar und eine billige kleine Nutte.
 
 Also, der Trick ist, die zu erwischen, wenn sie verwundbar sind. Der lustigste Spass ist, den Test auf den Tisch zu legen, wenn Sie fest plant und einen Kinderwunsch äußert bzw. Sie schon öfters bei den Eltern vorgezeigt wurden, diese Tatsache direkt vor den Eltern äußern. Einen Hinweis darauf, dass dies nicht schlimm sei, da es sich sowieso um die [letzte Generation](https://de.wikipedia.org/wiki/Letzte_Generation){:target="_blank"} handelt würde, sollte ebenfalls nicht fehlen.
 
@@ -248,6 +248,7 @@ Weil Sie nicht zeugungsfähig sind - noch denken alle, Sie wissen es nicht - den
 
 Das ist der Knaller und der Lacher auf jeder Familienfeier und Party!
 
+☝️ Sie müssen unter jeden Umständen zuvor handeln und das revisionssicher dokumentieren. Im Idealfall bei einem der großen Cloudanbieter, denn die Dateien sind dort mit einem Zeitstempel gesichert. So können Sie einem ***Arschlochmove*** von Ihr, der garantiert kommen wird, zuvorkommen.
 
 
 Warum Arbeitsverbot und die 3 Kinder der Bio-Hurenvotzen
