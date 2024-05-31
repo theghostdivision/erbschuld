@@ -122,11 +122,9 @@ Im englischsprachigen Raum geht man teilweise von noch pessimistischeren Zahlen 
 
 ### Rechtliche Bewertung
 
+Bei der rechtlichen Bewertung muss man zwischen West- und Ostdeutschland trennen, d.h. zwischen der BRD und der ehemaligen DDR.
+
 #### Situation ab 1945
-
-https://de.wikipedia.org/wiki/Gesetz_zur_Verh%C3%BCtung_erbkranken_Nachwuchses#Umgang_mit_dem_Gesetz_nach_1945
-
-
 
 Es ist bewußt kompliziert gemacht worden, denn es entstand ab 1964 bis 2002 ein quasi rechtsfreier Raum für die freiwillige Sterilisation. Dieser rechtsfreie Raum wurde ab 1992 (geringfügig) eingeschränkt durch die Schaffung des § 1905 BGB, mit diesem wurden sterilisierende Eingriffe bei einwilligungsunfähigen Betreuten nur unter engen Voraussetzungen und nur nach vormundschaftsgerichtlicher Genehmigung für zulässig erklärt.
 
@@ -409,6 +407,7 @@ Beachtlich ist ebenfalls, dass Opfer des Gesetzes zur Verhütung erbkranken Nach
 
 Ein wahrhaftig einmaliger Vorgang in der Geschichte der Verbrechen des Nationalsozialismus.
 
+*[BRD]: Bundesrepublik Deutschland
 *[DDR]: Deutsch Demokratische Republik
 *[ICSI]: Intrazytoplasmatische Spermieninjektion
 *[GzVeN]: Gesetzes zur Verhütung erbkranken Nachwuchses
