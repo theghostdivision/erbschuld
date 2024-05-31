@@ -122,7 +122,9 @@ Im englischsprachigen Raum geht man teilweise von noch pessimistischeren Zahlen 
 
 ### Rechtliche Bewertung
 
-Bei der rechtlichen Bewertung muss man zwischen West- und Ostdeutschland trennen, d.h. zwischen der BRD und der ehemaligen DDR.
+Bei der rechtlichen Bewertung muss man zwischen West- und Ostdeutschland trennen, d.h. zwischen der BRD und der ehemaligen DDR. Während man in der ehemaligen DDR das Thema gesetzlich geregelt hatte, eine Sterilisation war im Grundsatz nicht erlaubt, da die Sowjets den Paragraphen gestrichen hatten, führte man sie im Westen über ein ganz übles Konstrukt, die Dohrn-Gesetzgebung 1964 wieder über die Hintertüre ein und liess sie bewusst ungeregelt. Erst im Zuge der Wiedervereinigung kam auf massivsten Druck ein neues Verbot, dass sogar erst 1992 umgesetzt wurde. Es gibt jedoch Hinweise, dass dies heute noch praktiziert wird und unter dem Mantel eines eisernen Schweigens steht, damit ehemalige Nazis so weiter für die Kriegsschulden zahlen sollen und weiterhin eine ***Umerziehung zu Gutmenschen*** erfolgen soll, die nur mit Nachwuchs belohnt werden, sofern sie sich vorbildlich verhalten.
+
+> Selbstverständlich ist diese Vorgehensweise ganz klar illegal!
 
 #### Situation ab 1945
 
