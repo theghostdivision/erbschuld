@@ -128,7 +128,7 @@ Bei der rechtlichen Bewertung muss man zwischen West- und Ostdeutschland trennen
 
 #### Situation ab 1945
 
-Es ist bewußt kompliziert gemacht worden, denn es entstand ab 1964 bis 2002 ein quasi rechtsfreier Raum für die freiwillige Sterilisation. Dieser rechtsfreie Raum wurde ab 1992 (geringfügig) eingeschränkt durch die Schaffung des § 1905 BGB, mit diesem wurden sterilisierende Eingriffe bei einwilligungsunfähigen Betreuten nur unter engen Voraussetzungen und nur nach vormundschaftsgerichtlicher Genehmigung für zulässig erklärt.
+Es ist bewußt kompliziert gemacht worden und die eigentliche Lage wurde massiv verschleiert, so entstand ab 1964 bis 2002 ein quasi rechtsfreier Raum für die "freiwillige" Sterilisation. Dieser rechtsfreie Raum wurde ab 1992 (geringfügig) eingeschränkt durch die Schaffung des § 1905 BGB, mit diesem wurden sterilisierende Eingriffe bei einwilligungsunfähigen Betreuten nur unter engen Voraussetzungen und nur nach vormundschaftsgerichtlicher Genehmigung für zulässig erklärt.
 
 Zuvor war die Gesetzeslage, dass ab 1946 nur der § 226b StGB für die freiwillige Sterilisation zur Verfügung stand und dieser besagte, wenn diese sittenwidrig sind, dann ist die Einwilligung nichtig. In dieser Konstellation kam es zu einem Urteil, bei dem ein Arzt, der 149 Wunsch-Sterilisationen durchgeführt hatte, verurteilt hätte werden müssen, dies sahen die Richter jedoch kritisch und der Gerichtshof stellte damit § 226b in Frage.
 
@@ -137,7 +137,7 @@ Zuvor war die Gesetzeslage, dass ab 1946 nur der § 226b StGB für die freiwilli
 
 Damit wurde der § 226b gestrichen ohne eine neue Vorschrift und es enstand somit ein "rechtsfreier" Raum, der ab 1992 durch den [§ 1631c](https://www.gesetze-im-internet.de/bgb/__1631c.html){:target="_blank"} in Kombination mit dem [§ 1905 - entfallen seit 01.01.2023](https://dejure.org/gesetze/BGB_bis_31.12.2022/1905.html){:target="_blank"} eingeschränkt wurde. Eine letzte Nachschärfung des § 1631C erfolgte im Jahr 2002.
 
-Man könnte auch sagen, die strengen Vorschriften zur Sterilisation wurden bewußt für die Jahre 1964 bis 1992 und damit bis nach der Wiedervereingung, mit der die Reparationen geklärt wurden, ausgesetzt. Es ist vollkommen klar, dass dieser rechtsfreie Raum vom 1964 bis 1992 nicht zufällig zustande kam und 1964 war der Tenor (vgl. oben), dass nur der Gesetzgeber diesen rechtsfreien Raum schliessen könne und er verweigerte sich dessen (bewußt) bis 1992, bis die Reparationen geklärt waren.
+Man könnte auch sagen, die strengen Vorschriften zur Sterilisation wurden bewußt für die Jahre 1964 bis 1992 und damit bis nach der Wiedervereingung, mit der die Reparationen geklärt wurden, ausgesetzt. Es ist vollkommen klar, dass dieser rechtsfreie Raum vom 1964 bis 1992 nicht zufällig zustande kam und 1964 war der Tenor (vgl. oben), dass nur der Gesetzgeber diesen rechtsfreien Raum schliessen könne und er verweigerte sich dessen (bewußt) bis 1992, bis die Reparationen für den 2. Weltkrieg geklärt waren.
 
 **Fazit:** Der Gesetzgeber ermöglichte bewußt das Sterilisieren von kleinen männlichen Kindern, um so die Reparationen sicher zu stellen.
 
@@ -145,15 +145,15 @@ Man könnte auch sagen, die strengen Vorschriften zur Sterilisation wurden bewu�
 
 #### Wie kam es zu den Änderungen 1992?
 
-Simpel, man erkannt schon damals, also 1964, die Problematik mit des rechtsfreien Raumes, konnte sich zunächst jedoch auf kein Gesetz einigen.
+Trivial,nman erkannt schon damals, also 1964, die Problematik des rechtsfreien Raumes, konnte sich zunächst jedoch auf kein Gesetz einigen bzw. gab dies vor und die oberste deutsche Gerichtsbarkeit setzte zudem kein Zeitlimit. Man könnte somit sagen, das Thema wurde auf unbestimmte Zeit verschleppt.
 
 Bereits 1989 im Zuge der Wende versuchte man eine einheitliche Gesetzesgrundlage zu schaffen und war prinzipiell auf einem guten Weg. In der [Bundesdrucksache 11 /4528](https://dserver.bundestag.de/btd/11/045/1104528.pdf){:target="_blank"} ist die Lösung skizziert, dass die Zwangssterilisationen und Sterilisationen Minderjähriger verboten werden (Seite 01).
 
-Schon damals herrschte erhebliche Rechtsunsicherheit, ob eine Sterilisation von Müdeln bzw. Schutzbefohlenen zulässig war.
+Schon damals herrschte erhebliche Rechtsunsicherheit, ob eine Sterilisation von Mündeln bzw. Schutzbefohlenen überhaupt zulässig war.
 
 > In der Frage, ob der Vormund oder Pfleger in eine Sterilisation des Mündels/Pfleglings einwilligen kann, herrscht Rechtsunsicherheit.
 
-Man versuchte dies zu umgehen, indem man eine rechtliche Grauzone ohne Richtervorbehalt annahm, was prinzipiell unzulässig war, denn in diesem Fall hätte (ersatzweise) [Art. 2 GG](https://www.gesetze-im-internet.de/gg/art_2.html){:target="_blank"} gegolten.
+Man versuchte dies zu umgehen, indem man eine rechtliche Grauzone ohne Richtervorbehalt annahm, was prinzipiell unzulässig war, denn in diesem Fall wäre (ersatzweise) [Art. 2 GG](https://www.gesetze-im-internet.de/gg/art_2.html){:target="_blank"} zum Tragen gekommen.
 
 Diese **Grauzone** enstand nach Aussagen, die unter der Hand getätigt wurden, bewußt von 1964 bis 1992. Man versuchte auf diese Weise sämtliche Kinder von ehemaligen Nazis zwangsweise zu verpflichten, indem man den männlichen Nachwuchs (zwangsserilisierte), nicht in das Ausland "abzuhauen" und die Kosten / Reparationen des 2. Weltkriegs abzubezahlen.
 
@@ -161,13 +161,15 @@ Diese **Grauzone** enstand nach Aussagen, die unter der Hand getätigt wurden, b
 
 #### Warum wurde die Debatte 1989 angestossen?
 
-Dies hat mit der deutschen Einheit zu tun.
+Dies hat mit der deutschen Einheit zu tun. Auf der sowjetischen Seite (DDR) war die Gesetzeslage eindeutig, da die Sowjets noch Ende der 40er Jahre die Euthanasiegesetze abgeschafft hatten und damit Wunsch-Sterilisation unzulässig waren. Im Zuge der deutschen Einheit mußten daher auch diese Gesetze vereinheitlicht werden und im Westen gab es teilweise massiven Widerstand gegen die beschriebene Neuregelung, die Sterilisationen erheblich erschwerte.
 
 #### Der wahre Grund, der stets verschwiegen wird
 
+Einer der Gründe mag auch sein dass man so die Bevölkerung anspannen wollte, genügsam zu sein und ein Druckmittel in der Hand hatte. Es ist ganz klar, wer die Listen kontrolliert, kontrolliert so gesehen auch, mehr abhängig ist und nicht. man kann soeben die Fortpflanzung von vielen Menschen regeln. Ohne Zustimmung bzw dritte die die Kinder zeugen, haben diese Menschen fast keine Aussicht Kinder zu bekommen. Noch bedenklicher ist es, wenn man weiß, dass Menschen, die dieses Thema angesprochen haben, sofort mit der Euthanasiediagnose Schizophrenie bedroht wurden. Was ebenfalls nicht unerwähnt bleiben soll ist, dass viele Menschen überhaupt nicht wissen, dass die Kinder nicht von ihnen sind.
 
-#### Inwiefern ist die Justiz involviert
+> Angeblich war dies mit ein Grund, warum eine [Vergewaltigung in der Ehe](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bundestag.de/resource/blob/407124/6893b73fe226537fa85e9ccce444dc95/wd-7-307-07-pdf-data.pdf&ved=2ahUKEwjxnYmP-7eGAxX5YPEDHcmFDyMQFnoECA4QBg&usg=AOvVaw02v2A2JhVMLJvQDSmXo10D){:target="_blank"} strafbar wurde. 
 
+So konnte man die Frau nicht nach belieben ohne Kondom und Verhütung bumsen und es so auf die altmodische Art herausfinden.
 
 ### Ablauf des Kinderns
 
