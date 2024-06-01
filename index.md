@@ -260,7 +260,7 @@ Die Sau zu schlachten ist mit Sicherheit einer der übelsten Moves. Bei diesem M
 Er läuft so ab, wenn die Hurensau plötzlich geschwängert auftaucht und versucht es als ***Glückskind*** zu verkaufen, dann muss mam zunächst freudig mitspielen. Nur es wird ein ganz übles Spiel werden.
 
 
-![Böses grinsen](assets/img/emojis/big-grin.png){:.centered}
+![Böses grinsen](assets/img/emojis/grining-star.png){:.centered}
 
 
 Warum Arbeitsverbot und die 3 Kinder der Bio-Hurenvotzen
