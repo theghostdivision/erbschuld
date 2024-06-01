@@ -253,6 +253,10 @@ Das ist der Knaller und der Lacher auf jeder Familienfeier und Party!
 ☝️ Sie müssen unter jeden Umständen zuvor handeln und das revisionssicher dokumentieren. Im Idealfall bei einem der großen Cloudanbieter, denn die Dateien sind dort mit einem Zeitstempel gesichert. So können Sie einem ***Arschlochmove*** von Ihr, der garantiert kommen wird, zuvorkommen.
 
 
+#### Jetzt wird die Sau geschlachtet - Teil I
+
+
+
 Warum Arbeitsverbot und die 3 Kinder der Bio-Hurenvotzen
 
 Fahren mehrgleisig
