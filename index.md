@@ -255,6 +255,12 @@ Das ist der Knaller und der Lacher auf jeder Familienfeier und Party!
 
 #### Jetzt wird die Sau geschlachtet - Teil I
 
+Die Sau zu schlachten ist mit Sicherheit einer der übelsten Moves. Bei diesem Move handelt es sich um einen klassischen Konter.
+
+Er läuft so ab, wenn die Hurensau plötzlich geschwängert auftaucht und versucht es als ***Glückskind*** zu verkaufen, dann muss mam zunächst freudig mitspielen. Nur es wird ein ganz übles Spiel werden.
+
+
+
 
 
 Warum Arbeitsverbot und die 3 Kinder der Bio-Hurenvotzen
