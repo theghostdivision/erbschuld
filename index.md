@@ -83,6 +83,41 @@ Swimcount-Testergebnis mit unzureichender Menge fruchtbarer Spermien. In meinem 
 
 **Fazit:** Eine sehr gute und aussagekräftige erste Tendenz.
 
+#### Spermatest aus dem Internet - Update
+
+Ein weiterer Versuch mit dem David-Testkit ergab interessante Erkenntnisse und sollten diese stimmen, wird es wirklich kriminell.
+
+Zunächst die Auswertung des David-Testkits, bei der wir davon ausgingen, dass dies ebenfalls negativ ausfallen würden. Doch weit gefehlt, das Gegenteil war der Fall.
+
+![David mit ausreichender Spermienanzahl](/assets/img/media/david-testergebnis.jpg){:.centered}
+
+Zur (ersten) allgemeinen Überraschung fiel das Ergebnis des David-Testkits positiv aus.
+{:.figcaption}
+
+![David-Testkit Auswertung](/assets/img/media/david-auswertung.jpg){:.centered}
+
+Laut der Auswertungshinweisen ein eindeutig positives Ergebnis.
+{:.figcaption}
+
+Zunächst zweifelten wir, ob eventuell ein Fehler vorliegen könne. Dies war jedoch nicht der Fall und die Entnahme bis zur Auswertung war absolut sicher - ähnlich wie beim Swimcount-Test - dokumentiert. Zusätzlich begaben wir uns noch in das Ausland - ebenfalls absolut sicher dokumentiert - um eventuelle interessengeleitete Einflüsse aus bzw. in Deutschland auszuschliessen.
+
+***Was war also passiert?***
+
+Zunächst, bei einer Zuverlässigkeit von 99.8% sind keine Fehler zu erwarten. Man musste folglich davon ausgehen, dass das Ergebnis des David-Testkits korrekt ist.
+
+Spermiogramm
+
+Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
+
+Ungekehrter Hodenhochstand
+
+Propecia / Haarausfall (möglicherweise charakteristisch)
+
+Stasi
+
+Nur in Kombination daher sinnvoll
+
+
 #### Spermatest bei dem Urologen
 
 Sollte man mit dem Spermatest aus dem Internet einen ersten begründeten Verdacht haben, kann man im **AUSLAND** zu einem Urologen gehen. Viele bevorzugen dies im Rahmen eines Türkeiaufenthaltes umzusetzen. Dort wird diskret mit der Angelegenheit umgegangen und die Preise sind verhältnismässig moderat. Sollte sich hier ebenfalls ergeben, dass man unfruchtbar bzw. zeugungsunfähig ist, empfiehlt es sich, die Ursachen (dort) erforschen zu lassen. Kommt man zu dem Ergebnis, dass man möglicherweise im Kleinkindesalter vasektomiert wurde, dies ist einfach nachzuvollziehen, da in diesem Fall mehr als die üblichen 1cm des Samenleiters fehlen sollten, die bei einer regulären Vasektomie bei Erwachsenen entnommen werden. In der Regel ist diese durch eine einfache Ultraschalluntersuchung ersichtlich.
