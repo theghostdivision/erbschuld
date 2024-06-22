@@ -109,7 +109,7 @@ Spermiogramm
 
 Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
 
-Ungekehrter Hodenhochstand
+Ungekehrter Hodenhochstand => Verweiblichung
 
 Propecia / Haarausfall (möglicherweise charakteristisch)
 
