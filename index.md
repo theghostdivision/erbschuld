@@ -117,6 +117,8 @@ Stasi
 
 Nur in Kombination daher sinnvoll
 
+Auswertungsschema
+
 
 #### Spermatest bei dem Urologen
 
