@@ -103,7 +103,11 @@ Zunächst zweifelten wir, ob eventuell ein Fehler vorliegen könne. Dies war jed
 
 ***Was war also passiert?***
 
-Zunächst, bei einer Zuverlässigkeit von 99.8% sind keine Fehler zu erwarten. Man musste folglich davon ausgehen, dass das Ergebnis des David-Testkits korrekt ist.
+Zunächst, bei einer Zuverlässigkeit von 99.8% sind keine Fehler zu erwarten. Man musste folglich davon ausgehen, dass das Ergebnis des David-Testkits korrekt ist. Somit bleibt nur ein zulässiger Schluss, sowohl die Ergebnisse des David-Tests als auch der Swimcount-Tests sind korrekt und die Prozeduren sind jeweils verifizierbar, sogar auf der Basis einer identischen Entnahme der Spermaprobe.
+
+Dies lässt nur den Schluss zu, dass die Spermien mutmasslich (nicht zeugungsfähig) gemacht wurden. Solch ein ***Verhalten*** ist normalerweise nur in einem [Spermiogramm](https://de.wikipedia.org/wiki/Spermiogramm){:target="_blank"} nachweisbar.
+
+**Warnung:** Sollten Sie einen Verdacht haben, gehen Sie auf keinen Fall zuerst zu dem Urologen Ihres Vertrauens vor Ort oder wenden Sie sich an Freunde und Familienmitglieder. Sie wissen nicht, wer ggf. das Kind reingevögelt hat und haben sofort Ihre potentiellen >>Feinde<< alarmiert!
 
 Spermiogramm
 
@@ -111,13 +115,16 @@ Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
 
 Ungekehrter Hodenhochstand => Verweiblichung
 
-Propecia / Haarausfall (möglicherweise charakteristisch)
+Propecia / Haarausfall (möglicherweise charakteristisch) vs. Finasterid => Trick 3.5 Jahre + Tablettenteiler (fingern nicht fisten)
 
 Stasi
 
 Nur in Kombination daher sinnvoll
 
 Auswertungsschema
+
+
+Genetische Veränderungen (Deutschland)
 
 
 #### Spermatest bei dem Urologen
