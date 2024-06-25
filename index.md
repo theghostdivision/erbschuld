@@ -109,6 +109,9 @@ Dies lässt nur den Schluss zu, dass die Spermien mutmasslich (nicht zeugungsfä
 
 **Warnung:** Sollten Sie einen Verdacht haben, gehen Sie auf keinen Fall zuerst zu dem Urologen Ihres Vertrauens vor Ort oder wenden Sie sich an Freunde und Familienmitglieder. Sie wissen nicht, wer ggf. das Kind reingevögelt hat und haben sofort Ihre potentiellen >>Feinde<< alarmiert!
 
+Ein Spermiogramm ist der Überbegriff für eine erweiterte Ejakulatanalyse und kann mehrere Analysemethoden umfassen. Zu der Analyse gehört u.a. die Betrachtung der Spermien unter dem Mikroskop. Ein Beispiel eines solchen Bildes lässt sich bei ![Wikimedia - Spermien unter dem Mikroskop](https://upload.wikimedia.org/wikipedia/commons/4/4e/Sperm_stained.JPG) finden. Auf einem solchen Bild lassen sich z.B. Rückschlüsse über eventuelle Deformationen und die Konzentration der Spermien ziehen.
+
+
 Spermiogramm
 
 Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
