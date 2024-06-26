@@ -111,8 +111,16 @@ Dies lässt nur den Schluss zu, dass die Spermien mutmasslich (nicht zeugungsfä
 
 Ein Spermiogramm ist der Überbegriff für eine erweiterte Ejakulatanalyse und kann mehrere Analysemethoden umfassen. Zu der Analyse gehört u.a. die Betrachtung der Spermien unter dem Mikroskop. Ein Beispiel eines solchen Bildes lässt sich bei ![Wikimedia - Spermien unter dem Mikroskop](https://upload.wikimedia.org/wikipedia/commons/4/4e/Sperm_stained.JPG) finden. Auf einem solchen Bild lassen sich z.B. Rückschlüsse über eventuelle Deformationen und die Konzentration der Spermien ziehen.
 
+Bei Wikipedia wird angemerkt, dass Schnelltests (z.B. David oder Swimcount) kein Spermiogramm ersetzen können. Das ist so gesehen nicht korrekt, denn das können diese Tests sehr wohl. Dazu muss man wissen, dass ein Spermiogramm ein Oberbegriff für verschiedene Teilanalysen darstellt. Insofern einem bekannt ist, wonach man sucht, sind die Schnelltests sehr wohl in der Lage diesen Parameter korrekt zu bestimmen.
 
-Spermiogramm
+|_ Stufe 1: Bestimmung, ob überhaupt genügend Spermien vorhanden sind (David-Testkit)
+  |_ Stufe 2: Bestimmung, ob die Spermien >>beweglich<< und somit aktiv sind (Swimcount-Testkit)
+
+Man muss sich das als Raster vorstellen. Bei einer Vasektomie würde z.B. schon Stufe 1 zu einem negativen Ergebnis führen und Stufe 2 ergibt, dass die Spermien in ausreichender Menge (Stufe 1) vorhanden sind, jedoch keine hinreichende Aktivität (Stufe 2) aufweisen.
+
+Es gibt noch weitere Gründe, weshalb eine Schwangerschaft nicht erfolgreich sein kann und die Ursachen in den Spermien liegen, in diesem Fall wären sowohl Stufe 1 und 2 positiv, eine Schwangerschaft käme dennoch nicht zustande. Vorstellbar wären ausreichend aktive Spermien mit einer (weitergehenden) Anomalie.
+
+
 
 Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
 
