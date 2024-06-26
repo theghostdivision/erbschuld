@@ -113,12 +113,14 @@ Ein Spermiogramm ist der Überbegriff für eine erweiterte Ejakulatanalyse und k
 
 Bei Wikipedia wird angemerkt, dass Schnelltests (z.B. David oder Swimcount) kein Spermiogramm ersetzen können. Das ist so gesehen nicht korrekt, denn das können diese Tests sehr wohl. Dazu muss man wissen, dass ein Spermiogramm ein Oberbegriff für verschiedene Teilanalysen darstellt. Insofern einem bekannt ist, wonach man sucht, sind die Schnelltests sehr wohl in der Lage diesen Parameter korrekt zu bestimmen.
 
-|_ Stufe 1: Bestimmung, ob überhaupt genügend Spermien vorhanden sind (David-Testkit)
-  |_ Stufe 2: Bestimmung, ob die Spermien >>beweglich<< und somit aktiv sind (Swimcount-Testkit)
+| Stufe 1: Bestimmung, ob überhaupt genügend Spermien vorhanden sind (David-Testkit)
+  | Stufe 2: Bestimmung, ob die Spermien >>beweglich<< und somit aktiv sind (Swimcount-Testkit)
 
 Man muss sich das als Raster vorstellen. Bei einer Vasektomie würde z.B. schon Stufe 1 zu einem negativen Ergebnis führen und Stufe 2 ergibt, dass die Spermien in ausreichender Menge (Stufe 1) vorhanden sind, jedoch keine hinreichende Aktivität (Stufe 2) aufweisen.
 
-Es gibt noch weitere Gründe, weshalb eine Schwangerschaft nicht erfolgreich sein kann und die Ursachen in den Spermien liegen, in diesem Fall wären sowohl Stufe 1 und 2 positiv, eine Schwangerschaft käme dennoch nicht zustande. Vorstellbar wären ausreichend aktive Spermien mit einer (weitergehenden) Anomalie.
+Es gibt noch weitere Gründe, weshalb eine Schwangerschaft nicht erfolgreich sein kann und die Ursachen in den Spermien liegen, in diesem Fall wären sowohl Stufe 1 und 2 positiv, eine Schwangerschaft käme dennoch nicht zustande. Vorstellbar wären ausreichend aktive Spermien mit einer (weitergehenden) Anomalie, unter diese Kategorie fallen ebenfalls [Antikörper](https://www.endokrinologikum-aesculabor.de/leistungsverzeichnis/hormone/parameter/antikoerper-gegen-spermatozoen.html){:target="_blank"} gegen die eigenen Spermien, wie sie gehäuft in Folge von u.a. Vasektomien oder Traumata auftreten.
+
+Zur Beurteilung komplexer >>Defekte<< sind noch weitere Schritte erforderlich. Die Diagnostik ist teilweise sehr komplex, es geht darum, ob im Vorfeld eventuelle die DNA (irreversibel) geschädigt wurde, dies kann z.B. durch eine Chemotherapie mit [Procarbazin](https://www.gelbe-liste.de/wirkstoffe/Procarbazin_2203){:target="_blank"} geschehen oder die >>Produktionskette<< noch intakt ist, ein guter Indikator hierfür sind die sog. [Leydig-Zellen](https://de.wikipedia.org/wiki/Leydig-Zwischenzelle){:target="_blank"}.
 
 
 
@@ -127,12 +129,6 @@ Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
 Ungekehrter Hodenhochstand => Verweiblichung
 
 Propecia / Haarausfall (möglicherweise charakteristisch) vs. Finasterid => Trick 3.5 Jahre + Tablettenteiler (fingern nicht fisten)
-
-Stasi
-
-Nur in Kombination daher sinnvoll
-
-Auswertungsschema
 
 
 Genetische Veränderungen (Deutschland)
