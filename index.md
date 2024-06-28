@@ -122,7 +122,21 @@ Es gibt noch weitere Gründe, weshalb eine Schwangerschaft nicht erfolgreich sei
 
 Zur Beurteilung komplexer >>Defekte<< sind noch weitere Schritte erforderlich. Die Diagnostik ist teilweise sehr komplex, es geht darum, ob im Vorfeld eventuelle die DNA (irreversibel) geschädigt wurde, dies kann z.B. durch eine Chemotherapie mit [Procarbazin](https://www.gelbe-liste.de/wirkstoffe/Procarbazin_2203){:target="_blank"} geschehen oder die >>Produktionskette<< noch intakt ist, ein guter Indikator hierfür sind die sog. [Leydig-Zellen](https://de.wikipedia.org/wiki/Leydig-Zwischenzelle){:target="_blank"}.
 
+**Wichtig:** Das Raster ist keine Suche für die Ursachen, sondern es stellt nur mit sehr hoher Wahrscheinlichkeit fest, ob eine Zeugungsfähigkeit gegeben ist. Der Unterschied zu einem Spermiogramm ist, dass es zusätzlich auf Ursachensuche geht. Mit der ***1. Stufe*** wird nur festgestellt, dass es ***keine Spermien*** gibt. Dies ist ein ***KO-Kriterium für eine Schwangerschaft***. Mit der ***2. Stufe*** wird die ***Beweglichkeit der Spermien*** untersucht, eine ***Grundvoraussetzung für eine Schwangerschaft***.
 
+Wie gesagt, es gibt keine Ursachenforschung, es ist ausschliesslich eine Feststellung der Situation.
+
+Ausgehend von der aktuellen Situation kann man dann nach Ursachen forschen und sollte ggf. einen anonymen Test im Ausland anstreben. aus besagten Gründen. 
+
+##### Die übelsten Tricks zur Unfruchbarmachung
+
+***und wie sie kaschiert werden***
+
+1.
+
+2.
+
+3.
 
 Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
 
