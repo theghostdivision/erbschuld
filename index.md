@@ -72,7 +72,7 @@ Die Farbe dürfte unter Umständen klarer bzw. transparenter und die Konsistenz 
 
 #### Spermatest aus dem Internet
 
-Zunächst sei Ihnen nochmals gesagt, dass Sie mit niemandem darüber sprechen sollten und Sie sollten weder zu Ihrem Urologen vor Ort, noch zu Ihrem Apotheker vor Ort gehen. Nehmen Sie einen Spermatest aus dem Internet. Ich habe zum Beispiel [*Swimcount*](https://swimcount.de/collections/swimcount/products/fruchtbarkeitstest){:target="_blank"} gestestet und der Test ergab das vermutete Ergebnis, ich bin unfruchtbar / zeugungsunfähig. Es gibt mehrere Anbieter im Internet und der Suchbegriff ist [`Spermatest für zu Hause`](https://www.google.com/search?q=Spermatests+f%C3%BCr+zu+Hause){:target="_blank"}. Angeblich ist der günstigste und ebenfalls verlässliche Test, das Produkt von David. Der Vorteil von Swimcount ist laut deren Aussage, dass dieser die beweglichen Spermien [(PMSCs/ml)](https://swimcount.de/blogs/news/was-macht-den-swimcount-fruchtbarkeitstest-eigentlich-besonders){:target="_blank"} testet, was ein exakteres Ergebnis zur Folge hat. Bei einer Vasktomie dürfte dies jedoch eine untergeordnete Rolle spielen, so dass der Test von David, der die Spermienanzahl testet, ebenso gute Ergebnisse liefern dürfte. David gibt die Zuverlässigkeit mit über 99.8% an. Es erfolgt eine Überprüfung auf den Referenzwert der WHO von 15 Mio./ml fruchtbaren Spermien in einer Spermaanalyse.
+Zunächst sei Ihnen nochmals gesagt, dass Sie mit niemandem darüber sprechen sollten und Sie sollten weder zu Ihrem Urologen vor Ort, noch zu Ihrem Apotheker vor Ort gehen. Nehmen Sie einen Spermatest aus dem Internet. Ich habe zum Beispiel [*Swimcount*](https://swimcount.de/collections/swimcount/products/fruchtbarkeitstest){:target="_blank"} gestestet und der Test ergab das vermutete Ergebnis, ich bin unfruchtbar / zeugungsunfähig. Es gibt mehrere Anbieter im Internet und der Suchbegriff ist [`Spermatest für zu Hause`](https://www.google.com/search?q=Spermatests+f%C3%BCr+zu+Hause){:target="_blank"}. Angeblich ist der günstigste und ebenfalls verlässliche Test, das Produkt von David. Der Vorteil von Swimcount ist laut deren Aussage, dass dieser die beweglichen Spermien [(PMSCs/ml)](https://swimcount.de/blogs/news/was-macht-den-swimcount-fruchtbarkeitstest-eigentlich-besonders){:target="_blank"} testet, was ein exakteres Ergebnis zur Folge hat. Bei einer Vasktomie dürfte dies jedoch eine untergeordnete Rolle spielen, so dass der Test von David, der die Spermienanzahl testet, ebenso gute Ergebnisse liefern dürfte. David gibt die Zuverlässigkeit mit über 99.8% an. Es erfolgt eine Überprüfung auf den Referenzwert der WHO von 15 Mio./ml (fruchtbaren) Spermien in einer Spermaanalyse.
 
 Mein Swimcount Ergebnis habe ich per Foto dokumentiert. Bei einer genügenden Anzahl von beweglichen Spermien müsste die Linse komplett schwarz sein, dies ist bei mir nicht der Fall. Ich bin daher unfruchtbar und zeugungsunfähig, wie erwartet:
 
@@ -126,17 +126,71 @@ Zur Beurteilung komplexer >>Defekte<< sind noch weitere Schritte erforderlich. D
 
 Wie gesagt, es gibt keine Ursachenforschung, es ist ausschliesslich eine Feststellung der Situation.
 
-Ausgehend von der aktuellen Situation kann man dann nach Ursachen forschen und sollte ggf. einen anonymen Test im Ausland anstreben. aus besagten Gründen. 
+Ausgehend von der aktuellen Situation kann man dann nach Ursachen forschen und sollte ggf. einen anonymen Test im Ausland anstreben. aus besagten Gründen.
 
 ##### Die übelsten Tricks zur Unfruchbarmachung
 
 ***und wie sie kaschiert werden***
 
-1.
+Rückgang der Fruchbarkeit ist keine Legende. Zwischen dem Jahr 1970 und 2018 ging die Spermienanzahl bei allen getesten Männern um 50 % zurück. Dieser Abfall ist bemerkenswert und bei dieser [Studie](https://academic.oup.com/humupd/article/29/2/157/6824414?login=false){:target="_blank"} ist kein Median angegeben, so dass es schwer fällt, auf eine Verteilungskurve zu schliessen. Es ist daher durchaus möglich, dass bei gewissen Männern die Anzahl und die kritische WHO-Marke von 15 Millionen Spermien pro Milliliter gefallen ist und bei anderen deutlich darüber lag. Schreibt man jedoch die aktuelle Entwicklung fort, kommt man zu dem Ergebnis, dass die männliche Fruchtbarkeit alleine durch die Anzahl der Spermien in 25 - 30 % Jahren unter die minimale Schwelle von 15 Mio./ml (fruchtbaren) Spermien fallen dürfte.
 
-2.
+Sollten Sie daher mit der Diagnose Unfruchtbarkeit konfrontiert werden, mit diesem Befund wird übrigens etwa jedes siebte Paar in Deutschland konfrontiert, das sich seinen Kinderwunsch nicht auf natürlichem Weg erfüllen kann. An dieser Stelle sei angemerkt, dass ***das siebte Paar womöglich nur die Spitze vom Eisberg ist***, da viele Paare keinen Kinderwunsch hegen, es nur kurze Beziehungen sind und für Unfruchtbarkeit das Kriterium ist, kein Kind binnen 12 Monaten andauernder >>Versuche<< zu zeugen bzw. die Fruchtbarkeit bei gleichgeschlechtlichen Paaren auf natürlichem Wege keine Relevanz spielt. ebenso trifft sind Singles oder asexuelle Personen davon nicht betroffen.
 
-3.
+Das Problem: ~~Inzwischen sind die Methoden so gut, selbst~~ nach einem gewöhnlichen Spermiogramm (Samenanalyse des Mannes) bleiben die Ursachen rätselhaft. Anzahl, Beweglichkeit und Aussehen der Spermien erscheinen bei rund einem Drittel der unfruchtbaren Männer völlig normal\*.
+
+\*Zur Sicherheit wird nochmals auf den Bias (*"Die Spitze des Eisberges"*) aus dem vorherigen Absatz hingewiesen und auf den folgenden aktuellen Beitrag [0. GenTherapie](#0-gentherapie).
+
+###### 0. GenTherapie
+
+Was zunächst wie ein Mythos oder eine Verschwörungstheorie klingt, scheint inzwischen Realität geworden zu sein.
+
+> Wer kennt nicht die ***Verwörungstheorien zu Corona***? Es sei angeblich ein >>**Retrovirus**<<, das u.a. dazu erschaffen wurde, um eine ***globale Unfruchtbarkeit*** hervorzurufen.
+
+Wie es der Zufall so will, gibt es tatsächlich inzwischen solch einen beschriebenen Fall.
+
+###### 1. Chemotherapie
+
+Eine Chemotherapie im Kindesalter mit  oder   ist irreversibel. Es handelt sich dabei um eine permanente chemische Sterilisationsmethode und der weitere Nachteil ist, dass die Akten meist nur 10 Jahre vorgehalten werden. Sollte man z.B. im Alter von 2 Jahre eine solche Behandlung bei Ihnen vorgenommen haben und Sie vor dem Alter von 12 Jahre noch keinen Sex gehabt haben, wird der Nachweis sehr schwierig werden. Die Erfolgsquote einer solchen >>Therapie<< liegt bei 90+ %. Ein Erfolg ist mehr oder weniger garantiert mit dieser Methode. Die kritischen Mengen lassen sind inzwischen übrigens dokumentiert, so dass man davon ausgehen kann, dass diese Methode genügend praktiziert wurde. Eine Veränderung der Libido oder der Ejakulatmenge ist nicht feststellbar, laut der Studie, somit gibt es keine >>einfachen Indikatoren<< mit denen man einen Anhaltspunkt hätte.
+
+Neue Variante
+
+![Massnahmen zum Schutz der Fertilität](/assets/img/media/massnahmen-zum-schutz-der-fertilitaet.jpg)
+
+Quatschdiagnose und gesetztliche Krankenversicherung => Wechsel in die Private (oft kein Thema bei Kindern, sonst bemerkbar)
+
+###### 2. Bestrahlung
+
+Die Bestrahlung gehört zu den bekanntesten Methoden der permanenten Unfruchtbarmachung. Nur und jetzt kommt das große >>NUR<<, es kommt darauf an und es kommt massiv darauf an. Zunächst muss man die Unterscheidung zwischen Männern und Frauen und bei Männern zwischen Männern und Jungen treffen, außerdem noch nach dem Ort, der Einmaldosis und der kumulierten Dosis und der Art der Strahlung.
+
+***Kurz, die Bestrahlung ist ein komplexes Gebiet.***{:.centered}
+
+Diese Dosen sind mir Vorsicht zu geniessen, da es eine Pi mal Daumen-Regel ist. Bei Männern sollten Dosen von 2 Gy bei einer einmaligen Bestrahlung der Geschlechtsteile nicht zur Unfruchtbarkeit führen, mehrere Einzeldosen führen hingegen meist zur Unfruchtbarkeit und bei einer Einzeldosis von 10 Gy wird eine Fertilität allenfalls nach 10 Jahren wieder (partiell) erzielt und ab 30 Gy wird zusätzlich die Hormonbildung in den Leydig-Zellen (irreversibel) gestört, so dass zusätzlich eine Testosteronsubstitution (Gabe von Testosteron) erforderlich ist.
+
+Beachten Sie bitte, dass der Prozess bei präbpubertären Jungen sich umgekehrt verhält, da die Keimzellen als Vorstufe der Leydig-Zellen deutlich empfindlicher auf Strahlung reagieren. In diesem Fall erhält man statt zunächst Infertilität direkt eine Impotenz als Resultat, wobei diese folgende Infertilität häufig einen permanenten Charakter hat.
+
+> *Loss of all primordial germ cells at this stage (prepubertal) can result in permanent [azoospermia](https://de.wikipedia.org/wiki/Azoospermie){:target="_blank"}[^7].*
+
+Ebenfalls ist eine Bestrahlung des Schädels ab Dosen von 35 Gy bis 45 Gy kritisch, da die Gonadotropine FSH und LH nachhaltig geschädigt werden.
+
+Grob kann man somit sagen, dass bei Männern ab 30 Gy eine vollkommene Impotenz droht und zuvor >>nur<< eine ***(temporäre) Infertilität***.
+
+Bei Frauen sind Dosen ab 10 Gy verhältnismässig schädlich und ab einer (Gesamt)Dosis von 35 Gy hängt es massgeblich davon ab, welche Regionen und mit welchen Einzeldosen diese bestrahlt wurden. Hinzu kommt, dass ab einer Einzeldosis von 10 Gy einer (temporären) Schädigung der Eierstöcke - erkennbar u.a. an einer Amenorrhö - kommen und zu einer permanenten Schädigung des Uterus (bekannt als strahleninduzierten Fibrose), eine bekanntens Phänomen, dass oft zu Fehlgeburten führt.
+
+Ähnlich der Chemotherapie im Kindesalter ist eine Bestrahlung später nur schwer erkennbar und falls z.B. die Diagnosen manipuliert wurden und gewisse Angaben fehlen oder fehlerhaft sind - die Aufbewahrungszeit ist meinst nach 10 Jahre erschöpft - kommt es zu dem bekannten Nachweisproblem.
+
+Gibt es eine Abhilfe? Ja, es existiert eine experimentelle Methode im präpubert#ren Kindesalter, vergleichbar der Chemotherapie, 
+
+###### 3. Vasektomie
+
+###### 4. Verweiblichung
+
+###### 5. Antidepressiva
+
+###### 5. Finasterid
+
+Der Trick mit [Finasterid](https://de.wikipedia.org/wiki/Finasterid){:target="_blank"} funktioniert in 2 Varianten. Eine (verhältnismässig) harmlose Variante und eine doch extreme Form. Finasterid ist der (Basis)Wirkstoff von Propecia.
+
+2 Varianten
 
 Veränderung der Spermien => übler als Vasektomie / später zum Verdecken
 
@@ -496,6 +550,7 @@ Ein wahrhaftig einmaliger Vorgang in der Geschichte der Verbrechen des Nationals
 *[Nazis]: Nationalsozialisten
 *[NS]: Nationalsozialismus
 *[Spermiogramm]: Erweiterte Ejakulatanalyse
+*[WHO]: World Health Organization
 
 [^1]: Dieses Phänomen ist nicht in allen Bundesländern gleichmässig ausgeprägt, sondern variiert von Bundesland zu Bundesland. Extreme Ausprägungen hat es in den Ländern Bayern und Baden-Württemberg, die zu den "produktivsten" Ländern gehören. Diese "Musterländer" erkaufen sich durch das **Kindern** die Produktivität und die Psychiatrien das Stillschweigen, oftmals durch die (ehemalige Euthanasie)Diagnose **>>Schizophrenie<<**. In Bayern und Baden-Württemberg befinden sich noch viele Kliniken unter kommunaler Trägerschaft und sind nicht privatisiert, daher "müssen" diese auch die Meinung der Kommune bzw. der Politik vertreten und durchsetzen. Die Kliniken haben zudem wenig Wahl, da ca. [4 von 5 rote Zahlen schreiben und in Bayern akut 20% insolvenzgefährdet sind](https://www.br.de/nachrichten/bayern/klinik-in-den-roten-zahlen-privatisierung-als-loesung-bayreuth){:target="_blank"}, dieser Wert wird nur noch in Baden-Württemberg übertroffen. Inzwischen ist es jedoch so, dass diese Diagnose eigentlich wertlos ist, da man Blut-/Gen-/Peptidtests entwickelt hat, die [Schizophrenie eindeutig nachweisen können, besonders das Nichtvorhandensein](https://www.nature.com/articles/s41380-024-02433-8){:target="_blank"} und es hat sich sogar schon [bei Bild-Lesern herumgesprochen](https://www.bild.de/ratgeber/2024/ratgeber/neue-studie-bluttest-erkennt-schizophrenie-risiko-87183068.bild.html){:target="_blank"}, die "Investitionen in dieser Wunschdiagnose Psychiatrien" sind daher mittlerweile weitestgehend sinnfrei.
 [^2]: Die beliebtesten Methoden sind Geschlechtsorgane zu verstümmeln, indem man z.B. einer Frau vorschlägt sich sterilisieren zu lassen oder die Brüste aus Vorsichtsgründen zu amputieren, hinzu falschen Bestrahlungen, die Krebs auslösen oder [Pathogene](https://de.wikipedia.org/wiki/Pathogenit%C3%A4t){:target="_blank"}, die vergleichbare Wirkungen haben, bis hin zu Schwermetallen wie [Thallium](https://de.wikipedia.org/wiki/Thallium#Sicherheitshinweise){:target="_blank"}. Da die Krankenhäusern oftmals ebenfalls über eine [Pathologie](https://de.wikipedia.org/wiki/Pathologie){:target="_blank"} und ein [Krematorium](https://de.wikipedia.org/wiki/Krematorium){:target="_blank"} verfügen, können solche **>>Verbrechen<<** bequem kaschiert werden. 
@@ -503,3 +558,4 @@ Ein wahrhaftig einmaliger Vorgang in der Geschichte der Verbrechen des Nationals
 [^4]: Die üblichen Spässe, Frau ist nicht mehr bumswillig, droht die ganze Zeit mit Scheidung, geht fremd, behauptet Gewalt und lässt Sie des Hauses verweisen, evtl. wird der Versuch einer Vergewaltigung oder noch mehr in den Raum gestellt. In diesem Fällen stellt die Frau einen Strafantrag gegen Sie und dieser wird nie verhandelt. Nachweise mit Aktenzeichen.
 [^4]: Es liegt die Betonung darauf, dass es sich um eine bio-deutsche "Hure" handelt, denn die werden quasi in diese Rolle reingezwungen. Es geht prinzipiell darum den deutschen Mann, wobei das etwas relativ ist, da ebenso andere Nationen, die für die Nazis im Krieg aktiv wurden, ebenso "zu sterilisieren" waren, zu demütigen, mann soll immer unsichtbar bleiben, brav arbeiten, dann bekommt man Kinder geschenkt, die natürlich nicht von einem selbst sind und wenn man nicht pariert, wird einem alles weggenommen. Wie das im Einzelnen abläuft, wird noch ausgeführt und selbstverständlich gibt es (geringfügige) Variationen.
 [^6]: Da dieser Trick allseits bekannt sein dürfte, verzichte ich auf weitere Ausführungen an dieser Stelle.
+[^7]: [Fertility Preservation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3012633){:target="_blank"}
