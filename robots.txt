@@ -1,4 +1,4 @@
-Sitemap: http://www.erbschuld.info/sitemap.xml
+Sitemap: https://www.erbschuld.info/sitemap.xml
 
 User-agent: *
 Disallow: /legal/
