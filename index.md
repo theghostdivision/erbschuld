@@ -152,7 +152,7 @@ Wie es der Zufall so will, gibt es tatsächlich inzwischen solch einen beschrieb
 
 Eine Chemotherapie im Kindesalter mit  oder   ist irreversibel. Es handelt sich dabei um eine permanente chemische Sterilisationsmethode und der weitere Nachteil ist, dass die Akten meist nur 10 Jahre vorgehalten werden. Sollte man z.B. im Alter von 2 Jahre eine solche Behandlung bei Ihnen vorgenommen haben und Sie vor dem Alter von 12 Jahre noch keinen Sex gehabt haben, wird der Nachweis sehr schwierig werden. Die Erfolgsquote einer solchen >>Therapie<< liegt bei 90+ %. Ein Erfolg ist mehr oder weniger garantiert mit dieser Methode. Die kritischen Mengen lassen sind inzwischen übrigens dokumentiert, so dass man davon ausgehen kann, dass diese Methode genügend praktiziert wurde. Eine Veränderung der Libido oder der Ejakulatmenge ist nicht feststellbar, laut der Studie, somit gibt es keine >>einfachen Indikatoren<< mit denen man einen Anhaltspunkt hätte.
 
-Neue Variante
+Massnahmen zum Schutz der Fertilität
 
 ![Massnahmen zum Schutz der Fertilität](/assets/img/media/massnahmen-zum-schutz-der-fertilitaet.jpg)
 
@@ -178,7 +178,7 @@ Bei Frauen sind Dosen ab 10 Gy verhältnismässig schädlich und ab einer (Gesam
 
 Ähnlich der Chemotherapie im Kindesalter ist eine Bestrahlung später nur schwer erkennbar und falls z.B. die Diagnosen manipuliert wurden und gewisse Angaben fehlen oder fehlerhaft sind - die Aufbewahrungszeit ist meinst nach 10 Jahre erschöpft - kommt es zu dem bekannten Nachweisproblem.
 
-Gibt es eine Abhilfe? Ja, es existiert eine experimentelle Methode im präpubert#ren Kindesalter, vergleichbar der Chemotherapie, 
+Gibt es eine Abhilfe? Ja, es existiert eine experimentelle Methode im präpubert#ren Kindesalter, vergleichbar der, der Chemotherapie.  
 
 ###### 3. Vasektomie
 
@@ -378,6 +378,8 @@ Die Sau zu schlachten ist mit Sicherheit einer der übelsten Moves. Bei diesem M
 
 Er läuft so ab, wenn die Hurensau plötzlich geschwängert auftaucht und versucht es als ***Glückskind*** zu verkaufen, dann muss mam zunächst freudig mitspielen. Nur es wird ein ganz übles Spiel werden.
 
+=> Just More
+
 
 ![Böses grinsen](assets/img/emojis/grining-star.png){:.centered}
 
@@ -443,6 +445,7 @@ Sie stellen und vermutlich die Frage: *"Wieso wurden nur Jungen, aber keine Mäd
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Herrenvolk_und_Herrenrasse#Der_Begriff_.E2.80.9EHerrenrasse.E2.80.9C){:target="_blank"}
 
 
+=> Just More
 
 Bin ich auch betroffen? Vasektomie / Sterilisation
 
