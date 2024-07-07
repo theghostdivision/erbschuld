@@ -13,8 +13,7 @@ breadcrumb:            Erbschulden
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Lernen Sie den Mythos des üblen Kinderns und der Erbschulden von Ludwigsburg kennen! Sie werden geschockt sein!
+description:           Lernen Sie den Mythos des üblen Kinderns und der Erbschulden von Ludwigsburg kennen! Sie werden geschockt sein!
 
 # A shorter description for the sidebar.
 tagline:               <span class="home-message-special">und das üble Kindern!</span><br/><br/>
