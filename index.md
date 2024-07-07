@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Der Mythos
+seo_title: Der Mythos der Erbschulden
 
 sitemap: true
 description: >
   Lernen Sie den Mythos des üblen Kinderns und der Erbschulden von Ludwigsburg kennen! Sie werden geschockt sein!
+seo_description: Lernen Sie den Mythos des üblen Kinderns und der Erbschulden von Ludwigsburg kennen! Sie werden geschockt sein!
 hide_description: true
 cover: true
 ---
