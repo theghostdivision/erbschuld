@@ -85,7 +85,7 @@ Swimcount-Testergebnis mit unzureichender Menge fruchtbarer Spermien. In meinem 
 
 **Fazit:** Eine sehr gute und aussagekräftige erste Tendenz.
 
-#### Spermatest aus dem Internet - Update
+#### Spermatest aus dem Internet - Update I
 
 Ein weiterer Versuch mit dem David-Testkit ergab interessante Erkenntnisse und sollten diese stimmen, wird es wirklich kriminell.
 
@@ -129,6 +129,14 @@ Zur Beurteilung komplexer >>Defekte<< sind noch weitere Schritte erforderlich. D
 Wie gesagt, es gibt keine Ursachenforschung, es ist ausschliesslich eine Feststellung der Situation.
 
 Ausgehend von der aktuellen Situation kann man dann nach Ursachen forschen und sollte ggf. einen anonymen Test im Ausland anstreben. aus besagten Gründen.
+
+#### Spermatest aus dem Internet - Update II
+
+Man muss wirklich sagen, die aktuelle Entwicklung ist faszinierend und durchaus positiv für Männer. Ja, es gibt offenbar noch Wunder und nicht nur Entwicklungen über die man sich einfach nur *wundern* muss.
+
+Nach ersten vorsichtigen Erfolgen der Auswertungen mit Hilfe eines ***Maker-Labs in Berlin***. Die Intention dabei war eine von einem Urologen unabhängige Meinung zu erhalten, quasi ein unbeinflussbares, maschinelles **Spermiogramm**. Eines der bekannten Probleme bei gesetzlich versicherten Personen ist, dass eine ***unabhängige*** Beratung selten möglich ist. Es ist immer ein Kreis von Zuweisern (Allgemeinärzten) und Fachärzten, der vor Ort vorhersscht. So können zum Beispiel interessierte Dritte (Gemeinden) die Erfolge in deren Interesse regeln, insbesondere, wenn ebenfalls das Krankenhaus unter kommunaler Trägerschaft steht. 
+
+{% video src="https://www.erbschuld.info/assets/img/media/hardcore-sperm.mp4" %}
 
 ##### Die übelsten Tricks zur Unfruchbarmachung
 

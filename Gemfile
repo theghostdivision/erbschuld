@@ -44,6 +44,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
+  gem "jekyll_video"
   gem "jekyll-algolia", "~> 1.7"
 
   # Non-Github Pages plugins:

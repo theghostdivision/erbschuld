@@ -161,6 +161,9 @@ algolia:
 
 lightbox: true
 
+video:
+  die_on_video_error: false
+
 # Set which comment system to use
 comments:
   # 'disqus' / 'giscus' / 'utterances' are available
