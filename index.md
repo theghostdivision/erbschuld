@@ -136,7 +136,18 @@ Man muss wirklich sagen, die aktuelle Entwicklung ist faszinierend und durchaus 
 
 Nach ersten vorsichtigen Erfolgen der Auswertungen mit Hilfe eines ***Maker-Labs in Berlin***. Die Intention dabei war eine von einem Urologen unabhängige Meinung zu erhalten, quasi ein unbeinflussbares, maschinelles **Spermiogramm**. Eines der bekannten Probleme bei gesetzlich versicherten Personen ist, dass eine ***unabhängige*** Beratung selten möglich ist. Es ist immer ein Kreis von Zuweisern (Allgemeinärzten) und Fachärzten, der vor Ort vorhersscht. So können zum Beispiel interessierte Dritte (Gemeinden) die Erfolge in deren Interesse regeln, insbesondere, wenn ebenfalls das Krankenhaus unter kommunaler Trägerschaft steht. 
 
-{% video src="https://www.erbschuld.info/assets/img/media/hardcore-sperm.mp4" %}
+Sie müssen sich das so vorstellen, jemand aus der Gemeinde meint, dass das Vermögen - nun ja - in die Hände der Gemeinde gehört und Sie können sich vorstellen, was jetzt kommt. Also, eine Frau verwendet den ***schwäbischen Hausfrauentrick***, das bedeutet sich einen *Unbekannten* in einer Bar auszusuchen, der so ähnlich aussieht - wird schon keinem auffallen. Dieser Trick war früher eigentlich nur dafür gedacht, falls der Mann *zeugungsunfähig* ist, jedoch ist ein massiver Mißbrauch ebenfalls vorstellbar und diese Befürchtung hat sich schon sehr oft als durchaus real erwiesen.
+
+Betrachten wir zunächst den Nachweis der Vaterschaft in Deutschland. Bei einer ***>>[Vaterschaftsklage](https://de.wikipedia.org/wiki/Vaterschaftsanfechtung){:target="_blank"}<<*** wird im Prinzip der Nachweis geführt, dass der rechtliche Vater nicht der biologische Vater ist und die Hürden sind extrem hoch in Deutschland, man könnte sagen prohibitiv hoch.
+
+So ist zum Beispiel ein privater Gentest im Ausland nicht zulässig und unter Strafe gestellt ().
+
+https://www.google.com/search?q=privater+vaterschaftstest
+
+{% video src="https://www.erbschuld.info/assets/img/media/hardcore-sperm.mp4" %}{:.centered}
+
+Ein kleiner Auszug als Video des **exseed**-Spermiogramms.
+{:.figcaption}
 
 ##### Die übelsten Tricks zur Unfruchbarmachung
 
