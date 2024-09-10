@@ -140,16 +140,64 @@ Sie müssen sich das so vorstellen, jemand aus der Gemeinde meint, dass das Verm
 
 Betrachten wir zunächst den Nachweis der Vaterschaft in Deutschland. Bei einer ***>>[Vaterschaftsklage](https://de.wikipedia.org/wiki/Vaterschaftsanfechtung){:target="_blank"}<<*** wird im Prinzip der Nachweis geführt, dass der rechtliche Vater nicht der biologische Vater ist und die Hürden sind extrem hoch in Deutschland, man könnte sagen prohibitiv hoch.
 
-So ist zum Beispiel ein privater Gentest im Ausland nicht zulässig und unter Strafe gestellt ().
+So ist zum Beispiel ein privater Gentest im Ausland nicht zulässig und unter Strafe gestelllt. Noch bis Anfang 2010 war es auch in Deutschland kein Problem, einen heimlichen Vaterschaftstest zu machen, allerdings hat sich die Gesetzeslage diesbezüglich drastisch geändert. Mit dem [Gendiagnostikgesetz](https://de.wikipedia.org/wiki/Gendiagnostikgesetz){:target="_blank"} (01.02.2010) können in Deutschland genetische Tests nur noch mit der ausdrücklichen Einwilligung der betroffenen Personen durchgeführt werden (§ 17 Abs. 1 GenDG), ansonsten kann diese Ordnungwidrigkeit mit einem Bußgeld von bis zu 5.000 Euro belegt werden (§ 26 Abs. 2 GenDG).
 
-https://www.google.com/search?q=privater+vaterschaftstest
+Ebenso kann der (deutsche) Anbieter belangt werden, weshalb jeder (halbwegs intelligente Mensch) auf [Anbieter im Ausland](https://www.google.com/search?q=privater+vaterschaftstest){:target="_blank"} ausweicht, die es wie Sand am Meer gibt und damit wurde quasi die Büchse der Pandora geöffnet, denn gerichtliche Tests in Deutschland können bekanntlich ebenfalls manipuliert werden. Manche scherzen daher, dass dies ein Wink mit dem Zaunpfahl war, dass die Person auf keinen Fall den gerichtlichen Tests in Deutschland vertrauen sollten und man auf diese Weise bewußt die Tests in das Ausland verlagert hatte.
+
+###### Geplante Neuregelung 2005, die nie kam
+Wegen der massiven rechtlichen Probleme und den eingeschränkten Rechten des Anfechtenden wurde 2005 von mehreren Bundesländern eine Neuregelung erwogen.
+
+*Das Land Baden-Württemberg hat im Jahre 2005 dem Bundesrat den "Entwurf eines Gesetzes zum Schutz der Persönlichkeitsrechte bei Abstammungsuntersuchungen" zugeleitet (BRDrucks 280/05). Nach diesem Entwurf soll § 1600 BGB ein Absatz 5 hinzugefügt werden, nach dem es einer anfechtungsberechtigten Person im Sinne von § 1600 Abs. 1 BGB erlaubt sein soll, ohne Einwilligung des betroffenen Kindes und seiner Mutter zur Vorbereitung einer Anfechtung der Vaterschaft eine genetische Untersuchung durchführen zu lassen und zu diesem Zwecke Proben vom Kind zu gewinnen, sofern die Untersuchung nach den anerkannten Grundsätzen der Wissenschaft die Klärung der Vaterschaft verspricht.*
+
+*Auch der Freistaat Bayern hat dem Bundesrat einen "Entwurf eines Gesetzes über genetische Untersuchungen zur Klärung der Abstammung in der Familie" zugeleitet (BRDrucks 369/05). Danach soll ein neuer § 1600 f BGB geschaffen werden, der einer anfechtungsberechtigten Person im Sinne von § 1600 Abs. 1 BGB einen Anspruch gegen das Kind auf Einwilligung in eine gen-diagnostische Abstammungsuntersuchung und auf Gewinnung einer hierfür erforderlichen genetischen Probe einräumt. Außerdem soll § 1628 BGB ein zweiter Absatz hinzugefügt werden, nach dem das Familiengericht dem anderen Elternteil auf dessen Antrag die Entscheidung über die Einwilligung in eine gendiagnostische Abstammungsuntersuchung und die Gewinnung von genetischen Proben überträgt, wenn sich die Eltern über die Durchführung der Untersuchung nicht einigen können. Schließlich sieht der Entwurf vor, § 1629 Abs. 2 BGB einen weiteren Satz anzufügen, nach dem bei einer Entscheidung nach § 1600 f BGB auch ein Entzug der Vertretung des Kindes nach Absatz 2 Satz 3 in Betracht kommen soll.*
+
+*Ein im Juni 2006 vorgestellter Referentenentwurf des Bundesministeriums der Justiz für ein "Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit" sieht eine Neuregelung des Verfahrens in Abstammungssachen vor, wozu nach einem neuen § 178 FGG neben Verfahren auf Feststellung des Bestehens oder Nichtbestehens eines Eltern-Kind-Verhältnisses sowie der Wirksamkeit oder Unwirksamkeit einer Anerkennung der Vaterschaft auch Verfahren auf Anfechtung der Vaterschaft zählen, die nach dem ebenfalls neuen § 180 Abs. 1 FGG auf Antrag eingeleitet werden. Nach dessen Absatz 2 sollen in dem Antrag das Verfahrensziel und die betroffenen Personen bezeichnet werden. Eine Begründung soll nicht erforderlich sein.*
+
+*Zur Begründung dieser beabsichtigten Neuregelung wird ausgeführt, damit werde die Verfahrensposition des Anfechtenden gegenüber dem geltenden Recht wesentlich gestärkt. Durch die Überführung des Abstammungsverfahrens in ein streitiges Verfahren der freiwilligen Gerichtsbarkeit könne das Begründungserfordernis eines Anfechtungsantrags gänzlich entfallen. Auf eine zivilprozessuale Schlüssigkeit des Antrags komme es dann nicht mehr an. **Das Gericht habe den Sachverhalt einschließlich der Frage, ob die jeweilige Anfechtungsfrist eingehalten worden ist, von Amts wegen aufzuklären.***
+
+**Diese Neuregelung kam jedoch aufgrund von *massiver Lobbyarbeit* nie**
+
+➥ Doch nun wieder zurück zu dem eigentlichen Thema, dem **Spermiogramm mit dem Smartphone**.
+
+Nachdem das Spermiogramm mit dem Mikroskop in Berlin nur zu teilweisen Erfolgen führte. Es gab schlicht noch ein paar Probleme, die inzwischen aber behoben scheinen. Auch an dieser Stelle muss ich leider wieder weiter ausführen.
+
+##### Die Idee - ein Spermiogramm mit ML
+
+So simpel wie bestechend war der Ursprungsgedanke. Man muss sich fragen, wieso sollte man manuell auszählen, was inzwischen automatisch schneller und präziser erfolgen kann. Außerdem kann man ebenfalls über ML die [Motilität](https://www.orthomol.com/de-de/lebenswelten/kinderwunsch/spermiogramm-lesen#merkmale-der-spermienqualitaet){:target="_blank"} (möglicherweise) besser bestimmen.
+
+Zu dem Bestand eines Maker Labs in Berlin gehörte ein Rasterelektronenmikroskop. Ein Kleiner Hinweise daher an dieser Stelle, es erzeugt [beeindruckende Bilder](https://www.google.com/search?q=spermium+rasterelektronenmikroskop){:target="_blank"}, eigenet sich jedoch weniger für Spermiogramme. Es ist wirklich zu aufwendig und lohnt sich nicht bzw. der Erkenntnisgewinn ist unterdurchschnittlich, da es nicht um einzelne Spezimen, sondern um die Masse geht, die ausgewertet werden muss.
+
+Es erfolgte daher der Rückgriff auf ein bewährtes Mikroskop mit einem beheizbaren Tisch, damit die Probe >>auf Temperatur gehalten<< werden konnte. Die optischer Erfassung wurde unter Zuhilfenahme eines Smartphones durchgeführt. Wie man sich das vorstellen kann und ein Mikroskop mit vergleichbarer Funktionalität finden sich u.a. bei [Amazon](https://www.amazon.de/Metallk%C3%B6rper-WF-Okulare-Dual-Luminator-System-EU-Stecker-Komplettes){:target="_blank"}. Der Preis ist wirklich beeindruckend für ein Mikroskop mit 40 - 2000x Vergrößerung und integrierten Auflicht und Unterlicht, wobei ohne Frage sein sollte, dass >>medizinische Mikroskope<< (deutlich) hochwertiger und teurer sind.  
+
+Das war zunächst die Ausgangslage und die Ergebnisse waren nicht schlecht, um nicht zu sagen wirklich beeindruckend.
+
+**Die Frage ist nur:** ***Lohnt sich dieser Aufwand wirklich?***
+
+Die Anwort ist, ja, aber es geht inzwischen viel simpler und in diesem Bereich gibt es ein >>Feuerwerk der Innovationen<<.
+
+In der ARD-Mediathek befindet sich der Beitrag ***[Die Pille ist out. Was jetzt?](https://www.ardmediathek.de/video/y-kollektiv/die-pille-ist-out-was-jetzt/ard/MjJmYzA2NjMtYzA2Mi00ZjgyLTk2NWItY2Y2MzcxNGM3N2Qw){:target="_blank"}***. Ab ca. 25:35 wird ein spezialisiertes Gerät und eine Software gezeigt, die das Ejakulat jederzeit auswerten kann. Insider rechnen mit ca. 50 - 100 € Kosten für das >>Sperma-Mikroskop<<, da die meisten Teile preiswert in einem 3D-Druck gefertigt werden können. Gut, das ist die Einschätzung von Fachleuten in einem Makers Lab mit hochwertigen 3D-Druckern. Die Frage, die sich natürlich stellt ist, wie kompetent ist das Team aus dem ARD-Beitrag und bekommen dieses Team z.B. eine Kampagne bei Kickstarter oder GoFundMe, eben eine Crowdfunding-Kampagne, zusammen. Es ist eine gute Frage.
+
+Es geht jedoch noch einfach und noch billiger - außerdem hat das Produkt bereits Marktreife erzielt.
+
+*Selbstverständlich gibt es im Hochpreissegment [beeindruckende Produkte von Lenshooke](https://lenshooke.com/products.php){:target="_blank"}, die teilweise schon mit AI DNA-Fragmentierungen - sowohl [Einzel- als auch Doppelstrangbrüche der DNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6410262/){:target="_blank"} - diagnostizieren können. Man hat damit das gesamte Ergebnis der eigenen Fertilität in wenigen Minuten im Detail vorliegen.*
+
+| Sollte man zu so einem Test raten? Definitiv, damit kann jeder Mann bereits in jungen Jahren seine Zukunft planen und sind wir ehrlich, diese Tests werden demnächst flächendeckend verfügbar sein und die Fertilität geht immer weiter zurück.
+
+Inzwischen sind laut [Studien](https://www.tagesschau.de/wissen/gesundheit/unfruchtbarkeit-maenner-kinderwunschbehandlung-100-100.html){:target="_blank"} ca. 1/3 der Männer in Deutschland nicht mehr in der Lage Kinder zu zeugen. Selbst bei einem vollkommen normalen Spermiogramm, ist einer der (mittlerweile erkannten) Faktoren ein genetische Defekt im Kalziumkanal. Diese Phänomen wurde ***CatSper*** genannt und von einem [Team der Universität Münster entdeckt](https://www.jci.org/articles/view/173564){:target="_blank"}. Es ist davon auszugehen, dass es noch weitere genetische Defekte gibt, die eine wesentliche Rolle bei der Fortpflanzung spielen und daher ist eine DNA-Untersuchung heutzutage selbst bei einem vollkommen unaufälligem Spermiogramm angeraten, außerdem ist dies ebenfalls ein sehr guter Einwand, falls eine Geschlechtspartnerin mit einer spontanen Schwangerschaftsüberraschung kommt.
+
+Damit ist erwiesen, dass es die ganz große Lösung bereits schon gibt und diese demnächst zu angemessenen Preisen flächendeckend verfügbar ist. Sozusagen eine ***Versicherung gegen angehängte Kinder*** zum moderaten Preis. Diese Investition lohnt sich auf alle Fälle und sollte eine der wichtigsten ***Versicherungen*** eines jeden >>jungen Mannes<< sein.
+
+
+
+
+
 
 {% video src="https://www.erbschuld.info/assets/img/media/hardcore-sperm.mp4" %}{:.centered}
 
 Ein kleiner Auszug als Video des **exseed**-Spermiogramms.
 {:.figcaption}
 
-##### Die übelsten Tricks zur Unfruchbarmachung
+#### Die übelsten Tricks zur Unfruchbarmachung
 
 ***und wie sie kaschiert werden***
 
@@ -161,7 +209,7 @@ Das Problem: ~~Inzwischen sind die Methoden so gut, selbst~~ nach einem gewöhnl
 
 \*Zur Sicherheit wird nochmals auf den Bias (*"Die Spitze des Eisberges"*) aus dem vorherigen Absatz hingewiesen und auf den folgenden aktuellen Beitrag [0. GenTherapie](#0-gentherapie).
 
-###### 0. GenTherapie
+##### 0. GenTherapie
 
 Was zunächst wie ein Mythos oder eine Verschwörungstheorie klingt, scheint inzwischen Realität geworden zu sein.
 
@@ -169,7 +217,7 @@ Was zunächst wie ein Mythos oder eine Verschwörungstheorie klingt, scheint inz
 
 Wie es der Zufall so will, gibt es tatsächlich inzwischen solch einen beschriebenen Fall.
 
-###### 1. Chemotherapie
+##### 1. Chemotherapie
 
 Eine Chemotherapie im Kindesalter mit  oder   ist irreversibel. Es handelt sich dabei um eine permanente chemische Sterilisationsmethode und der weitere Nachteil ist, dass die Akten meist nur 10 Jahre vorgehalten werden. Sollte man z.B. im Alter von 2 Jahre eine solche Behandlung bei Ihnen vorgenommen haben und Sie vor dem Alter von 12 Jahre noch keinen Sex gehabt haben, wird der Nachweis sehr schwierig werden. Die Erfolgsquote einer solchen >>Therapie<< liegt bei 90+ %. Ein Erfolg ist mehr oder weniger garantiert mit dieser Methode. Die kritischen Mengen lassen sind inzwischen übrigens dokumentiert, so dass man davon ausgehen kann, dass diese Methode genügend praktiziert wurde. Eine Veränderung der Libido oder der Ejakulatmenge ist nicht feststellbar, laut der Studie, somit gibt es keine >>einfachen Indikatoren<< mit denen man einen Anhaltspunkt hätte.
 
@@ -179,7 +227,7 @@ Massnahmen zum Schutz der Fertilität
 
 Quatschdiagnose und gesetztliche Krankenversicherung => Wechsel in die Private (oft kein Thema bei Kindern, sonst bemerkbar)
 
-###### 2. Bestrahlung
+##### 2. Bestrahlung
 
 Die Bestrahlung gehört zu den bekanntesten Methoden der permanenten Unfruchtbarmachung. Nur und jetzt kommt das große >>NUR<<, es kommt darauf an und es kommt massiv darauf an. Zunächst muss man die Unterscheidung zwischen Männern und Frauen und bei Männern zwischen Männern und Jungen treffen, außerdem noch nach dem Ort, der Einmaldosis und der kumulierten Dosis und der Art der Strahlung.
 
@@ -201,13 +249,13 @@ Bei Frauen sind Dosen ab 10 Gy verhältnismässig schädlich und ab einer (Gesam
 
 Gibt es eine Abhilfe? Ja, es existiert eine experimentelle Methode im präpubert#ren Kindesalter, vergleichbar der, der Chemotherapie.  
 
-###### 3. Vasektomie
+##### 3. Vasektomie
 
-###### 4. Verweiblichung
+##### 4. Verweiblichung
 
-###### 5. Antidepressiva
+##### 5. Antidepressiva
 
-###### 5. Finasterid
+##### 5. Finasterid
 
 Der Trick mit [Finasterid](https://de.wikipedia.org/wiki/Finasterid){:target="_blank"} funktioniert in 2 Varianten. Eine (verhältnismässig) harmlose Variante und eine doch extreme Form. Finasterid ist der (Basis)Wirkstoff von Propecia.
 
@@ -570,6 +618,7 @@ Ein wahrhaftig einmaliger Vorgang in der Geschichte der Verbrechen des Nationals
 *[GzVeN]: Gesetzes zur Verhütung erbkranken Nachwuchses
 *[#IchBinNichtSoEine]: Das sind gerade die billigen Bitches mit den Dessous, die sie zufällig anhaben und der Pille, die sie aus medizinischen Gründen nehmen
 *[IVF]: In-Vitro-Fertilisation
+*[ML]: Machine Learning
 *[NAZI]: Nationalsozialismus
 *[Nazis]: Nationalsozialisten
 *[NS]: Nationalsozialismus
