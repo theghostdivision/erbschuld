@@ -201,9 +201,26 @@ Betrachten wir zunächst nüchtern die Abfolge, dann ist eventuell ein solcher (
 
   Nach den neuen [WHO-Richtlinien](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} sollte die Grenze hingegen bei 6,72 Mio./ml (16 Mio./ml Spermienkonzentration * gesamte Motilität ≥42 % bewegliche Spermien ) liegen. Die positive Aussagekraft des Testes ist daher inzwischen ebenfalls umstritten, er sollte somit nur noch als Negativindikator verwendet werden.
 
-**Zwischenfazit:** Beide Test eignen sich für die neuen WHO-Grenzwerte sehr gut als Negativindikatoren, da sie eine große Sicherheitsmarge für diese Prognose aufweisen.
+**Zwischenfazit:** Beide Test eignen sich für die neuen WHO-Grenzwerte sehr gut als Negativindikatoren, da sie eine große Sicherheitsmarge für diese Prognose aufweisen. Ja, es ist in gewisser Weise ein Totalschaden bis jetzt, wie sich leider gezeigt hat. So ist das eben.
 
+Dieses (ernüchternde) Zwischenfazit führt und wieder zurück zu dem **exseed™-Test**.
 
+Der **exseed-Test** ist mit vielen >>Lorbeeren<< ausgezeichnet worden, um einige der Auszeichnungen zu nennen:
+
++ Zertifizierung nach ISO 13485:2016
++ Zertifiziert vom British Standards Institute als medizinisches In-vitro-Diagnosegerät
++ Auszeichnung für das beste Fruchtbarkeitsprodukt und die beste Fruchtbarkeitsanwendung beim Fertility Care Award 2024
++ Amazon Launchpad Innovationspreis Finalist 2022
+
+Damit dürfte offensichtlich sein, dass es sich um einen ernstzunehmenden Test handelt, der im Gegensatz zu dem David-Testkit oder dem SwimCount-Test sich an neue [WHO-Richtlinien](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} flexibel angepasst werden kann, denn er basiert auf einer optischen Erfassung, die unter Zuhilfenahme von KI ausgewertet wird. Zusätzlich ist bei divergierenden Parametern ein Review durch einen menschlichen Mitarbeiter vorhergesehen.
+
+Alleine diese Tatsache plaziert diesen Test in einer vollkommen anderen Liga. Es handelt sich genau genommen, nicht nur um einen Test, sondern um eine komplette Philosophie, denn es besteht die Möglichkeit zusätzlich die Ernährung umzustellen bzw. mit Nahrungsergänzungsmitteln anzureichern und sogar - allerdings ausschliesslich im Vereinigten Königreich und nur für Männer - wird ein [@home-Kit zur Auswertung von den 8 üblichsten sexuellen Infektionskrankheiten](https://www.exseedhealth.com/de/yoxly-comprehensive-test/){:target="_blank"} angeboten, der diskret ausgewertet wird. Das ist selbstverständlich ein absoluter Pluspunkt, denn so kann ein Mann diskret feststellen, ob Ihm ggf. von einer Frau solche Krankheiten angehängt wurden, ohne gleich dereren Namen überall publik zu machen.
+
+Zusätzlich kann man neue Auswertungsmaterialien nachbestellen. Damit ist es eine durchaus sinnvolle Investition.
+
+Der Eine oder der Andere wird sich fragen, wie sind die Anforderungen an das Smartphone für die optische Auswertung. Da kann ich Entwarnung geben, die Grenze liegt bei 12MP und diese Anforderungen sollte jedes einigermassen moderne Smartphone erfüllen. Es ist natürlich klar, dass eine bessere Optik ein besseres optisches Ergebnis ergibt. Auswirkungen, die sich durch die Integration von KI in machen Smartphones bei der Bilderfassung ergeben, sind schwer zu beurteilen, da nicht davon ausgegangen werden kann, dass die KI auf die Erfassung von Spermien per Smartphone optimiert wurde. Im Zweifelsfall sollte man die KI (auch AI genannt) deaktiviert lassen.
+
+Ein **Ausschnitt meines Videos** habe ich zur Verfügung gestellt. Die Ergebnisse sind sehr gut und ich habe ein Smartphone der oberen Mittelklasse mit etwas überdurchschnittlicher Optik verwendet.
 
 {% video src="https://www.erbschuld.info/assets/img/media/hardcore-sperm.mp4" %}{:.centered}
 
