@@ -115,8 +115,8 @@ Ein Spermiogramm ist der Überbegriff für eine erweiterte Ejakulatanalyse und k
 
 Bei Wikipedia wird angemerkt, dass Schnelltests (z.B. David oder Swimcount) kein Spermiogramm ersetzen können. Das ist so gesehen nicht korrekt, denn das können diese Tests sehr wohl. Dazu muss man wissen, dass ein Spermiogramm ein Oberbegriff für verschiedene Teilanalysen darstellt. Insofern einem bekannt ist, wonach man sucht, sind die Schnelltests sehr wohl in der Lage diesen Parameter korrekt zu bestimmen.
 
-| Stufe 1: Bestimmung, ob überhaupt genügend Spermien vorhanden sind (David-Testkit)
-  | Stufe 2: Bestimmung, ob die Spermien >>beweglich<< und somit aktiv sind (Swimcount-Testkit)
+| ➫ Stufe 1: Bestimmung, ob überhaupt genügend Spermien vorhanden sind (David-Testkit)
+| ➫➫ Stufe 2: Bestimmung, ob die Spermien >>beweglich<< und somit aktiv sind (Swimcount-Testkit)
 
 Man muss sich das als Raster vorstellen. Bei einer Vasektomie würde z.B. schon Stufe 1 zu einem negativen Ergebnis führen und Stufe 2 ergibt, dass die Spermien in ausreichender Menge (Stufe 1) vorhanden sind, jedoch keine hinreichende Aktivität (Stufe 2) aufweisen.
 
@@ -187,8 +187,21 @@ Inzwischen sind laut [Studien](https://www.tagesschau.de/wissen/gesundheit/unfru
 
 Damit ist erwiesen, dass es die ganz große Lösung bereits schon gibt und diese demnächst zu angemessenen Preisen flächendeckend verfügbar ist. Sozusagen eine ***Versicherung gegen angehängte Kinder*** zum moderaten Preis. Diese Investition lohnt sich auf alle Fälle und sollte eine der wichtigsten ***Versicherungen*** eines jeden >>jungen Mannes<< sein.
 
+Betrachten wir zunächst nüchtern die Abfolge, dann ist eventuell ein solcher (noch nicht flächendeckend verbreiteter) Test notwendig und zusätzlich hat man eine Art ***2. Meinung***.
 
+| ➫ Stufe 1: Bestimmung, ob überhaupt genügend Spermien vorhanden sind (David-Testkit)
 
+  ***Hinweis:*** Die neue [WHO-Grenzwerte](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} für die Sperminienkonzentration betragen nicht mehr 15 Mio./ml sondern 16 Mio./ml - David ist noch auf die alten Werte ausgelegt. Die positive Aussagekraft des Testes ist daher inzwischen umstritten, er sollte somit nur noch als Negativindikator verwendet werden.
+
+| ➫➫ Stufe 2: Bestimmung, ob die Spermien >>beweglich<< und somit aktiv sind (Swimcount-Testkit)
+
+  ***Hinweis:*** Eine Nachberechnung des Swimcount-Testkits hat ebenfalls (erhebliche) Schwachstellen aufgezeigt. Zitat aus den [FAQ des Herstellers](https://swimcount.de/pages/faqs-zum-swimcount-fruchtbarkeitstest){:target="_blank"}:
+
+  *SwimCount™ hat eine Sensitivität von 96% und eine Spezifität von 91%. Dies bedeutet, dass wenn der Test zeigt, dass das Sperma mehr als 5 Millionen bewegliche Spermien pro ml aufweist, das Ergebnis mit einer Wahrscheinlichkeit von 96% korrekt ist. Wenn der Test weniger als 5 Millionen bewegliche Spermien pro ml anzeigt, dann ist das Ergebnis zu 91% richtig.*
+
+  Nach den neuen [WHO-Richtlinien](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} sollte die Grenze hingegen bei 6,72 Mio./ml (16 Mio./ml Spermienkonzentration * gesamte Motilität ≥42 % bewegliche Spermien ) liegen. Die positive Aussagekraft des Testes ist daher inzwischen ebenfalls umstritten, er sollte somit nur noch als Negativindikator verwendet werden.
+
+**Zwischenfazit:** Beide Test eignen sich für die neuen WHO-Grenzwerte sehr gut als Negativindikatoren, da sie eine große Sicherheitsmarge für diese Prognose aufweisen.
 
 
 
