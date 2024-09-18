@@ -227,6 +227,16 @@ Ein **Ausschnitt meines Videos** habe ich zur Verfügung gestellt. Die Ergebniss
 Ein kleiner Auszug als Video des **exseed**-Spermiogramms.
 {:.figcaption}
 
+Die Software von exseed scheint noch einige kleine Tücken zu haben, eventuell lag es an meinem Smartphone. Bei mir war der automatische Auswertungsprozess leider nicht möglich und ich musste das Video manuell aufnehmen und hochladen. Kurze Zeit später erhielt ich die erste Analyse und den Hinweis, dass eine weitere manuelle Überprüfung der Daten durch exseed notwendig ist.
+
+In der Tag wich die 2. Auswertung von der 1. Auswertung ab, zwar nicht signifikant, doch da einige meiner Werte auf der Grenze bzw. knapp an der Grenze der [WHO-Grenzwerte](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} lagen, ergaben sich Änderungen bei den >>Empfehlungen<<.
+
+Es ist unklar, wodurch die Nachauswertung >>getriggert<< wird. Ob diese stets durch ein Ergebnis an der Grenze oder durch Warnungen in dem KI-Auswertungsprozess ausgelöst wird.
+
+Ebenfalls interessant ist, dass bei der Software aktuell die Empfehlungen auf Basis der veralteten [WHO-Grenzwerte](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} erfolgen. Dies ist etwas befremdlich, da die Werte leicht in der Software angepasst werden könnten. Eine weitere Erklärung dafür gab es ebenfalls nicht.
+
+**Fazit:** Der **exseed**-Test erscheint mir bisher als die beste und ausagekräftigste Alternative am Markt. Mit einem fortschreiten der optischen Fähigkeiten der Smartphones und der KI ist eine weitere Verbesserung im Bereich der Auswertung zu erwarten. Zusätzlich ist eine Anpassung der aktuellen [WHO-Richtlinien](https://www.uniklinik-ulm.de/aktuelles/detailansicht/die-grenzwerte-fuer-ein-spermiogramm-wurden-von-der-who-aktualisiert){:target="_blank"} möglich und wird hoffentlich in nächster Zeit umgesetzt. Ein weiterer Pluspunkt ist, dass Verbrauchsmaterialien nachbestellt werden können und alles in eine Philosophie eingebettet ist, die durch Ernährungsratgeber und Nahrungsergängzungsmittel eine Verbesserung der Fertilität generell anstrebt. Die Auswertung von STIs (sexuell übertragbaren Krankheiten) konnte mangels Krankheiten und Verfügbarkeit des Tests - er ist derzeit nur in UK durchführbar - nicht weiter analysiert werden.
+
 #### Die übelsten Tricks zur Unfruchbarmachung
 
 ***und wie sie kaschiert werden***
